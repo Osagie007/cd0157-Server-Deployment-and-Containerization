@@ -72,7 +72,8 @@ cd cd0157-Server-Deployment-and-Containerization/
 ├── test_main.py  #ToDo
 └── trust.json     #ToDo 
 ```
-
+JWT_SECRET='myjwtsecret'
+LOG_LEVEL=DEBUG
      
 ## Project Steps
 
